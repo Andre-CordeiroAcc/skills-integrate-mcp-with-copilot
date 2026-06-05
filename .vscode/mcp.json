@@ -1,4 +1,10 @@
 {
+  "mcp": {
+    "enabled": true,
+    "version": 1,
+    "description": "MCP configuration placeholder"
+  }
+}{
   "servers": {
     "github": {
       "type": "http",
